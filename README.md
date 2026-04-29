@@ -4,7 +4,7 @@ A Python-based Flappy Bird game clone built with Pygame.
 
 ## Screenshot
 
-![Gameplay](gallery/sprites/background.png)
+![Gameplay](gallery/sprites/message.png)
 
 ## Overview
 
