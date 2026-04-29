@@ -2,6 +2,10 @@
 
 A Python-based Flappy Bird game clone built with Pygame.
 
+## Screenshot
+
+![Gameplay](gallery/sprites/background.png)
+
 ## Overview
 
 This is a classic Flappy Bird gameplay implementation where you control a bird navigating through gaps in pipes. The goal is to survive as long as possible by avoiding collisions with the ground and pipes while passing through gaps.
